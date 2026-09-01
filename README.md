@@ -2,7 +2,7 @@
 
 This repository hosts my poster for the [International Symposium on Plasmid Biology 2026 conference](https://plasmid-biology-2026.de/).
 
-To view the PDF poster, click here.
+To view the PDF poster, click [here](ISPB_2026_Lerminiaux_multicarb_poster2.pdf).
 
 ## Poster abstract
 
